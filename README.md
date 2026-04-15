@@ -77,7 +77,7 @@ This project demonstrates how combining Excel, SQL, and Power BI can provide mea
 The dashboard can help HR teams take better decisions to reduce employee attrition.
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshots here)
+(![1 EXECUTIVE OVERVIEW])
 
 ## 👤 Author
 Khizar  
