@@ -81,17 +81,22 @@ The dashboard can help HR teams take better decisions to reduce employee attriti
 ## PAGE 1(EXECUTIVE OVERVIEW)
 ![1 EXECUTIVE OVERVIEW](https://github.com/Khizar1108/HR_Attrition_analysis/blob/131bfdf1b762b4888000092813ee156bca58a3d0/POWER%20BI%20DASHBOARDS%20SCREENSHORTS/Screenshot%20(10).png)
 
+
 ## PAGE 2(DEMOGRAPHICS PAGE)
 ![image alt](https://github.com/Khizar1108/HR_Attrition_analysis/blob/d93d894b37957f56553ca2a2c89e2657dcde4bd4/POWER%20BI%20DASHBOARDS%20SCREENSHORTS/Screenshot%20(11).png)
+
 
 ## PAGE 3(JOB & EXPERIENCE ANALYSIS)
 ![image alt](https://github.com/Khizar1108/HR_Attrition_analysis/blob/957613fd5b1df2d0be8ccce19495f2524955a96c/POWER%20BI%20DASHBOARDS%20SCREENSHORTS/Screenshot%20(12).png)
 
+
 ## PAGE 4(DEPARTMENT ANALYSIS)
 ![image alt](https://github.com/Khizar1108/HR_Attrition_analysis/blob/957613fd5b1df2d0be8ccce19495f2524955a96c/POWER%20BI%20DASHBOARDS%20SCREENSHORTS/Screenshot%20(13).png)
 
+
 ## PAGE 5(SALARY COMPENSATION)
 ![image alt](https://github.com/Khizar1108/HR_Attrition_analysis/blob/957613fd5b1df2d0be8ccce19495f2524955a96c/POWER%20BI%20DASHBOARDS%20SCREENSHORTS/Screenshot%20(14).png)
+
   
 
 ## ⭐ If you found this useful
