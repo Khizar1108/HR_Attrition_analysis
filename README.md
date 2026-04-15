@@ -13,7 +13,7 @@ Instead of just building visuals, this project covers the complete data analysis
 
 ## 📂 Dataset
 
-**Dataset link:**[movies Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+**Dataset link:**[HR_ATTRITION Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 - HR Employee Attrition Dataset  
 - ~1470 employee records  
